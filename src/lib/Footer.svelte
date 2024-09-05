@@ -127,8 +127,8 @@
 	<span class="copyright">&copy; 2021 - {year} <a href="https://github.com/nmelhado/league-page">League Page</a></span>
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
-	//<span class="creator">Built by <a href="http://www.nmelhado.com/">Joshua Parker</a><br /></span>
+	<span class="creator">Built by <a href="http://www.nmelhado.com/">Joshua Parker</a><br /></span>
 	<!-- You can remove the donation link (although any donations to help
 	 maintain and enhance League Page would be greatly appreciated!) -->
-	//Love League Page? Please consider <a href="https://www.venmo.com/u/JoshuaParker13">donating</a> to support enhancements or just to say thank you!
+	Love League Page? Please consider <a href="https://www.venmo.com/u/JoshuaParker13">donating</a> to support enhancements or just to say thank you!
 </footer>
