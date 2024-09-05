@@ -124,7 +124,7 @@
 		</ul>
 	</div>
 	<!-- PLEASE DO NOT REMOVE THE COPYRIGHT -->
-	<span class="copyright">&copy; 2021 - {year} <a href="https://github.com/nmelhado/league-page">League Page</a></span>
+	<span class="copyright">&copy; 2021 - {year} <a href="https://github.com/JParker31310/league-page/tree/master">League Page</a></span>
 	<br />
 	<!-- PLEASE DO NOT REMOVE THE BUILT BY -->
 	<span class="creator">Built by <a href="linkedin.com/in/joshua-parker-762518237">Joshua Parker</a><br /></span>
